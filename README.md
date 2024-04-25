@@ -7,7 +7,6 @@ X number of months/years.
 
 ## Conclusion 
 
-The regression task involves employing feature engineering methodologies for supervised learning data modeling,
-leveraging algorithms such as Decision Trees and Random Forests. This yielded R-squared scores of 58% and 95% respectively.
+The regression analysis encompasses the utilization of feature engineering techniques within the realm of supervised learning for data modeling. It involves leveraging algorithms like Decision Trees and Random Forests, resulting in R-squared scores of 58% and 95% respectively. Furthermore, to discern demand, supply, and supply trends, forecasting sales for the upcoming 12 weeks will be conducted using the Holt-Winters model and the ARIMA model.
 
 
